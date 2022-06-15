@@ -31,5 +31,7 @@ Submission files should contain two columns: Id and Prediction. Prediction shoul
 For example
 
 ID Prediction
+
 0 1,0,1,0,0,1
+
 1 1,0,1,0,0,1
